@@ -34,8 +34,9 @@ Si lo prefieres, puedes usar el comando `git clone < url_repositorio > ` desde t
 ## Conocimientos previos requeridos
 
 Para aprovechar al máximo este Meetup, se recomienda tener conocimiento básico de la escritura de estructuras secuenciales y nociones básicas de variables numéricas. Para repasar estos conceptos recomendamos ver los siguientes Meetup:
-[Enero 2023: Paradigmas de programación](https://www.youtube.com/watch?v=Kt6L3IWRh0A)
-[Febrero 2023: Mis primeros programas en R](https://www.youtube.com/watch?v=RKvwuQCOH18)
+
+- [Enero 2023: Paradigmas de programación](https://www.youtube.com/watch?v=Kt6L3IWRh0A)
+- [Febrero 2023: Mis primeros programas en R](https://www.youtube.com/watch?v=RKvwuQCOH18)
 
 
 ## Requerimientos de software
