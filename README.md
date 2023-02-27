@@ -6,11 +6,9 @@
 En este meetup aprenderemos:
 
 - La importancia de utilizar funciones al programar.
-- Cómo utilizar una función en R.
+- Cómo llamar a una función en R.
 - Cómo construir funciones en R.
-- Qué son los argumentos de una función.
 - La diferencia entre variables locales y globales.
-- Tipos de funciones en R.
 
 ## Fecha 
 
